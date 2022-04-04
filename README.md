@@ -1,2 +1,2 @@
 [Live Demo](https://jgnim.github.io/quiz-app/)
-![screenshot](./quiz-app-preview.png/)
+![screenshot](./quiz-app-preview.PNG)
